@@ -23,7 +23,7 @@
     "mocha": "*",
     "grunt": "*",
     "grunt-karma": "*",
-    "karma-mocha": "*",
+    "karma-mocha": ">=1.3.0",
     "karma-ie-launcher": "*",
     "karma-safari-launcher": "*",
     "karma-script-launcher": "*",
