@@ -19,7 +19,7 @@
   "readmeFilename": "README.md",
   "gitHead": "123e411687c6199c240b709d582b0e939cb14080",
   "devDependencies": {
-    "chai": "*",
+    "chai": ">=4.1.1",
     "mocha": "*",
     "grunt": "*",
     "grunt-karma": "*",
