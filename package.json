@@ -26,7 +26,7 @@
     "karma-mocha": "*",
     "karma-ie-launcher": "*",
     "karma-safari-launcher": "*",
-    "karma-script-launcher": "*",
+    "karma-script-launcher": ">=1.0.0",
     "karma-crbot-reporter": "*"
   }
 }
