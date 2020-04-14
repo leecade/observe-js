@@ -22,7 +22,7 @@
     "chai": "*",
     "mocha": "*",
     "grunt": "*",
-    "grunt-karma": "*",
+    "grunt-karma": ">=4.0.0",
     "karma-mocha": "*",
     "karma-ie-launcher": "*",
     "karma-safari-launcher": "*",
